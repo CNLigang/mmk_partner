@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "partner",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Partner",
     "keywords": [
         "framework",
         "laravel"
